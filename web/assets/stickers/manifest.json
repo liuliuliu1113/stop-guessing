@@ -1,0 +1,62 @@
+{
+  "_说明": "封面固定用预言家（naiwa-prophet.webp，由素材/预言家白底图抠出）；listening 固定侧脸，保证卡片右侧窄条里脸完整；其余槽位按情绪轮换。换图只改这里。",
+  "version": 1,
+  "slots": {
+    "cover": [
+      "naiwa-prophet.webp"
+    ],
+    "listening": [
+      "naiwa-31.webp"
+    ],
+    "thinking": [
+      "naiwa-28.webp",
+      "naiwa-12.webp",
+      "naiwa-21.webp",
+      "naiwa-11.webp"
+    ],
+    "poke": [
+      "naiwa-22.webp",
+      "naiwa-03.webp",
+      "naiwa-13.webp"
+    ],
+    "fact": [
+      "naiwa-18.webp",
+      "naiwa-09.webp"
+    ],
+    "guess": [
+      "naiwa-15.webp",
+      "naiwa-20.webp"
+    ],
+    "push": [
+      "naiwa-32.webp",
+      "naiwa-14.webp",
+      "naiwa-10.webp"
+    ],
+    "done": [
+      "naiwa-06.webp"
+    ],
+    "relapse": [
+      "naiwa-01.webp",
+      "naiwa-29.webp",
+      "naiwa-17.webp"
+    ],
+    "others": [
+      "naiwa-26.webp",
+      "naiwa-08.webp"
+    ],
+    "oops": [
+      "naiwa-02.webp",
+      "naiwa-04.webp"
+    ],
+    "farewell": [
+      "naiwa-30.webp"
+    ],
+    "empty": [
+      "naiwa-01.webp"
+    ],
+    "copy": [
+      "naiwa-13.webp",
+      "naiwa-27.webp"
+    ]
+  }
+}

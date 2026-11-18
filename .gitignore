@@ -1,0 +1,27 @@
+# Qoder 本地站点元数据（含 projectId / siteId，不入库）
+.别猜了.qoder.site
+.qoder/
+.qoderignore
+
+# 过程记录与工作素材（体积大，仅本地保留）
+制作记录/
+素材/
+
+# 依赖与构建（本项目零依赖，仅作保险）
+node_modules/
+package-lock.json
+dist/
+
+# 本地环境变量
+.env
+.env.*
+!.env.example
+dev/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.idea/
+.vscode/
